@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                          // 编译目标 ES 版本
+    "lib": ["DOM", "ESNext"],                 // 包含 DOM/ES 最新特性（支持 JSX）
+    "allowJs": true,                          // 允许混合 JS/TS 文件（兼容旧代码）
+    "skipLibCheck": true,                     // 跳过第三方库的类型检查（避免 antd/React 类型冲突）
+    "esModuleInterop": true,                  // 兼容 CommonJS/ES 模块
+    "allowSyntheticDefaultImports": true,     // 允许默认导入（比如 import React from 'react'）
+    "strict": true,                           // 开启严格类型检查（实习项目推荐）
+    "forceConsistentCasingInFileNames": true, // 文件名大小写一致
+    "allowImportingTsExtensions": false, //这个配置会强制导入带后缀，增加类型解析复杂度
+    "module": "ESNext",                       // 模块系统
+    "moduleResolution": "bundler",               // 按 Node 规则解析模块（找 node_modules）
+    "resolveJsonModule": true,                // 支持导入 JSON 文件
+    "isolatedModules": true,                  // 隔离模块（CRA 要求）
+    "noEmit": true,                           // 不生成编译后的 JS 文件（CRA 自动处理）
+    "jsx": "react-jsx",                       // 适配 React 18 的 JSX 运行时（核心！解决 JSX 报错）
+    "types": ["react", "react-dom", "node"]   // 引入 React/Node 类型
+  },
+  "include": ["src/**/*"],                    // 检查 src 下所有文件（包括你的 global.d.ts）
+  "exclude": ["node_modules"]                 // 排除 node_modules
+}
