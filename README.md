@@ -4,7 +4,7 @@
 ## 📸 功能截图（新增：核心页面截图）
 | 页面         | 效果展示                                                                 |
 |--------------|--------------------------------------------------------------------------|
-| 登录页       | ![登录页](https://s41.ax1x.com/2026/03/02/peplSmj.md.png])|
+| 登录页       | ![登录页](https://s41.ax1x.com/2026/03/02/peplSmj.md.png)|
 | 待办列表页   | <img src="https://s41.ax1x.com/2026/03/02/pepMSgg.png" width="45%"> <img src="https://s41.ax1x.com/2026/03/02/pepKxC8.png" width="45%"> |
 | 表单提交页   | <img src="https://s41.ax1x.com/2026/03/02/pepKj4f.png" width="45%"> <img src="https://s41.ax1x.com/2026/03/02/pepKz8S.png" width="45%"> |
 
