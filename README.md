@@ -4,9 +4,9 @@
 ## 📸 功能截图（新增：核心页面截图）
 | 页面         | 效果展示                                                                 |
 |--------------|--------------------------------------------------------------------------|
-| 登录页       | ![登录页](https://s41.ax1x.com/2026/03/02/peplSmj.md.png)|
-| 待办列表页   | <img src="https://s41.ax1x.com/2026/03/02/pepMSgg.png" width="45%"> <img src="https://s41.ax1x.com/2026/03/02/pepKxC8.png" width="45%"> |
-| 表单提交页   | <img src="https://s41.ax1x.com/2026/03/02/pepKj4f.png" width="45%"> <img src="https://s41.ax1x.com/2026/03/02/pepKz8S.png" width="45%"> |
+| 登录页       | ![登录页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E7%99%BB%E5%BD%95%E9%A1%B5.png)|
+| 待办列表页   | <img src="https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E5%AE%A1%E6%89%B9%E9%A1%B51.png" width="45%"> <img src="https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E5%AE%A1%E6%89%B9%E9%A1%B52.png" width="45%"> |
+| 表单提交页   | <img src="https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B51.png" width="45%"> <img src="https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B52.png" width="45%"> |
 
 ## 🔧 技术栈清单
 | 分类         | 技术/库                          | 核心作用                     |
