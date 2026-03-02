@@ -1,6 +1,13 @@
 # React + TS 企业级基础应用模板
 基于 React 18 + TypeScript 构建的轻量级企业级应用模板，集成路由权限控制、双状态管理方案、表单处理、接口封装等核心能力，适配 pnpm monorepo 工程化架构。
 
+## 📸 功能截图（新增：核心页面截图）
+| 页面         | 效果展示                                                                 |
+|--------------|--------------------------------------------------------------------------|
+| 登录页       | ![登录页](https://imgchr.com/i/pepMpvQ) |
+| 待办列表页   | <img src="https://imgchr.com/i/pepMSgg" width="45%"> <img src="https://imgchr.com/i/pepKxC8" width="45%"> |
+| 表单提交页   | <img src="https://imgchr.com/i/pepKj4f" width="45%"> <img src="https://imgchr.com/i/pepKz8S" width="45%"> |
+
 ## 🔧 技术栈清单
 | 分类         | 技术/库                          | 核心作用                     |
 |--------------|----------------------------------|------------------------------|
@@ -33,20 +40,24 @@
 - 响应拦截：统一错误提示、401 状态统一处理；
 - 简化调用：统一返回后端业务数据，减少冗余代码。
 
-## 🚀 快速运行（适配 pnpm monorepo）
-### 前提
+## 🚀 在线可交互 Demo（可直接操作）
+> 注：首次加载需等待依赖安装，右侧预览区可操作
+mailto:https://stackblitz.com/~/github.com/April222333/my-interview-project-CURDLearning?embed=1
+
+### 3. 本地快速运行（适配 pnpm monorepo）
+#### 前提
 已安装 pnpm：`npm install -g pnpm`
 
-### 步骤
+#### 步骤
 ```bash
-# 克隆仓库（替换为你的仓库实际地址）
-git clone https://github.com/你的用户名/你的仓库名.git
+# 克隆仓库
+git clone https://github.com/April222333/my-interview-project-CURDLearning
 
 # 进入项目根目录
-cd 你的仓库名
+cd apps/my-curd
 
 # 安装所有子项目依赖（monorepo 特性）
 pnpm install
 
-# 启动 my-curd 子项目（适配你的 monorepo 结构）
+# 启动 my-curd 子项目（适配 monorepo 结构）
 pnpm --filter my-curd dev
