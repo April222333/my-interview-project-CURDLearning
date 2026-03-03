@@ -16,7 +16,7 @@ const Navigation = () => {
   const navigate = useNavigate();
 
   const items = [
-    { key: '/', label: '审批列表' },
+    { key: '/', label: '待办列表' },
     { key: '/form', label: '表单页面' },
     { key: '/login', label: '登录页面' }
   ];
