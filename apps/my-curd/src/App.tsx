@@ -8,7 +8,6 @@ import { Tabs, Spin } from 'antd'
 // 路由懒加载：按需加载页面组件
 const TodoList = lazy(() => import('./pages/TodoList'));
 const FormPage = lazy(() => import("./pages/FormPage"));
-const BlankPage = lazy(() => import('./pages/BlankPage'));
 const LoginPage = lazy(() => import("./pages/LoginPage"));
 
 // 路由与Tabs联动导航组件
@@ -19,7 +18,6 @@ const Navigation = () => {
   const items = [
     { key: '/', label: '审批列表' },
     { key: '/form', label: '表单页面' },
-    { key: '/blank', label: '空白页面' },
     { key: '/login', label: '登录页面' }
   ];
   
@@ -49,7 +47,6 @@ const AppContent = () => {
           {/* 需权限的页面：通过PrivateRoute控制访问权限 */}
           <Route path='/' element={<PrivateRoute><TodoList/></PrivateRoute>} />
           <Route path='/form' element={<PrivateRoute><FormPage/></PrivateRoute>} />
-          <Route path='/blank' element={<PrivateRoute><BlankPage /></PrivateRoute>} />
           {/* 兜底路由：访问不存在路径跳转登录页 */}
           <Route path='*' element={<Navigate to='/login' replace />} />
         </Routes>
