@@ -4,9 +4,9 @@
 ## 📸 功能截图（新增：核心页面截图）
 | 页面         | 效果展示                                                                 |
 |--------------|--------------------------------------------------------------------------|
-| 登录页       | ![登录页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E7%99%BB%E5%BD%95%E9%A1%B5.png)|
-| 待办列表页 1  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/raw/578154051a243ea3f476f9444564dfe335ba152f/docs/screenshots/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B91.png)|
-| 待办列表页 2  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/raw/578154051a243ea3f476f9444564dfe335ba152f/docs/screenshots/%E4%BB%A3%E5%8A%9E%E4%BA%8B%E9%A1%B92.png)|
+| 登录页       | ![登录页](https://github.com/April222333/my-interview-project-CURDLearning/blob/a2e5f5db78cb764ff6c340b39e4d74d190902ea3/raw/screenshots/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)|
+| 待办列表页 1  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/raw/a2e5f5db78cb764ff6c340b39e4d74d190902ea3/docs/screenshots/%E5%BE%85%E5%8A%9E%E5%88%97%E8%A1%A81.png)|
+| 待办列表页 2  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/raw/a2e5f5db78cb764ff6c340b39e4d74d190902ea3/docs/screenshots/%E5%BE%85%E5%8A%9E%E5%88%97%E8%A1%A82.png)|
 | 表单提交页 1  | ![表单页](https://github.com/April222333/my-interview-project-CURDLearning/raw/c5f777f99328b203ee11f36e0992db3c55b879bb/docs/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B5%E9%9D%A21.png)|
 | 表单提交页 2  | ![表单页](https://github.com/April222333/my-interview-project-CURDLearning/raw/578154051a243ea3f476f9444564dfe335ba152f/docs/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B5%E9%9D%A22.png)|
 
