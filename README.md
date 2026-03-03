@@ -5,10 +5,10 @@
 | 页面         | 效果展示                                                                 |
 |--------------|--------------------------------------------------------------------------|
 | 登录页       | ![登录页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E7%99%BB%E5%BD%95%E9%A1%B5.png)|
-| 待办列表页 1  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E5%AE%A1%E6%89%B9%E9%A1%B51.png)|
-| 待办列表页 2  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E5%AE%A1%E6%89%B9%E9%A1%B52.png)|
-| 表单提交页 1  | ![表单页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B51.png)|
-| 表单提交页 2  | ![表单页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B52.png)|
+| 待办列表页 1  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/blob/d701ea56a282217f1b10cbecdd8204ea1dc40d43/raw/screenshots/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B91.png)|
+| 待办列表页 2  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/blob/d701ea56a282217f1b10cbecdd8204ea1dc40d43/raw/screenshots/%E4%BB%A3%E5%8A%9E%E4%BA%8B%E9%A1%B92.png)|
+| 表单提交页 1  | ![表单页](https://github.com/April222333/my-interview-project-CURDLearning/blob/d701ea56a282217f1b10cbecdd8204ea1dc40d43/raw/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B5%E9%9D%A21.png)|
+| 表单提交页 2  | ![表单页](https://github.com/April222333/my-interview-project-CURDLearning/blob/d701ea56a282217f1b10cbecdd8204ea1dc40d43/raw/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B5%E9%9D%A22.png)|
 
 ## 🔧 技术栈清单
 | 分类         | 技术/库                          | 核心作用                     |
