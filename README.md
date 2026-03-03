@@ -4,11 +4,11 @@
 ## 📸 功能截图（新增：核心页面截图）
 | 页面         | 效果展示                                                                 |
 |--------------|--------------------------------------------------------------------------|
-| 登录页       | ![登录页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E7%99%BB%E5%BD%95%E9%A1%B5.png)|
-| 待办列表页 1  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E5%AE%A1%E6%89%B9%E9%A1%B51.png)|
-| 待办列表页 2  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E5%AE%A1%E6%89%B9%E9%A1%B52.png)|
-| 表单提交页 1  | ![表单页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B51.png)|
-| 表单提交页 2  | ![表单页](https://github.com/April222333/my-interview-project-CURDLearning/raw/7db8943c751c72317413d82e87267f87404dea37/docs/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B52.png)|
+| 登录页       | ![登录页](https://github.com/April222333/my-interview-project-CURDLearning/raw/8d89dd132ec1ba2d09b245253fd4aa4083039aee/docs/screenshots/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)|
+| 待办列表页 1  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/raw/a2e5f5db78cb764ff6c340b39e4d74d190902ea3/docs/screenshots/%E5%BE%85%E5%8A%9E%E5%88%97%E8%A1%A81.png)|
+| 待办列表页 2  | ![待办列表页](https://github.com/April222333/my-interview-project-CURDLearning/raw/a2e5f5db78cb764ff6c340b39e4d74d190902ea3/docs/screenshots/%E5%BE%85%E5%8A%9E%E5%88%97%E8%A1%A82.png)|
+| 表单提交页 1  | ![表单页](https://github.com/April222333/my-interview-project-CURDLearning/blob/c6f233ecd5abfc0085f626090c9969e993648094/docs/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B5%E9%9D%A21.png)|
+| 表单提交页 2  | ![表单页](https://github.com/April222333/my-interview-project-CURDLearning/raw/578154051a243ea3f476f9444564dfe335ba152f/docs/screenshots/%E8%A1%A8%E5%8D%95%E9%A1%B5%E9%9D%A22.png)|
 
 ## 🔧 技术栈清单
 | 分类         | 技术/库                          | 核心作用                     |
@@ -26,11 +26,13 @@
 - 基础 CURD：新增/编辑/删除待办、切换完成状态、清空已完成待办；
 - 双状态管理：同时支持 Zustand/Redux Toolkit 两种状态管理方案切换；
 - 数据持久化：本地存储待办数据，刷新页面不丢失。
+-  AI 赋能规划：通过 AI 智能分类功能，自动分析待办事项内容，推荐优先级和标签，提升任务管理效率。
 
 ### 2. 表单（FormPage）模块
 - 表单校验：基于 Ant Design 实现表单字段校验；
 - 草稿持久化：填写中的表单内容自动保存，切页/刷新不丢失；
-- 提交控制：loading 状态防重复提交，提交历史记录管理。
+- 提交控制：loading 状态防重复提交，提交历史记录管理；
+- AI 赋能规划：通过 AI 自动填充表单功能，基于用户历史填写数据/业务规则，智能填充常用字段，减少手动输入成本，提升表单填写效率。
 
 ### 3. 权限与路由
 - 私有路由：未登录状态禁止访问核心页面，自动跳转登录页；
